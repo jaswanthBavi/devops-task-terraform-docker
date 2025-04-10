@@ -4,8 +4,7 @@ This project is part of a DevOps Internship program provided by Elevate Labs. Th
 The main goal is to get hands-on experience with Terraform syntax, provider usage (Docker in this case), state files, and command-line operations such as init, plan, apply, and destroy. By the end of this task, you’ll gain a deeper understanding of how Terraform manages infrastructure in a declarative and version-controlled way.
 
 
-
-
+![image alt](https://github.com/jaswanthBavi/devops-task-terraform-docker/blob/ef43ad136c89d7227ec84bee4870bc7a2a1ebaed/Screenshot%202025-04-10%20104632.png)
 
 
 
