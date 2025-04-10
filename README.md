@@ -1,4 +1,8 @@
 # devops-task-terraform-docker
+This project is part of a DevOps Internship program provided by Elevate Labs. The task focuses on understanding and implementing Infrastructure as Code (IaC) using Terraform to provision a local Docker container. You will learn how to automate container creation and management, which is an essential skill for modern DevOps and cloud engineers.
+
+The main goal is to get hands-on experience with Terraform syntax, provider usage (Docker in this case), state files, and command-line operations such as init, plan, apply, and destroy. By the end of this task, you’ll gain a deeper understanding of how Terraform manages infrastructure in a declarative and version-controlled way.
+
 
 
 
