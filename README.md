@@ -7,5 +7,5 @@ The main goal is to get hands-on experience with Terraform syntax, provider usag
 ![image alt](https://github.com/jaswanthBavi/devops-task-terraform-docker/blob/ef43ad136c89d7227ec84bee4870bc7a2a1ebaed/Screenshot%202025-04-10%20104632.png)
 ![image alt](https://github.com/jaswanthBavi/devops-task-terraform-docker/blob/98796c3aba96dbebe65e566115b45e5bb590dedc/Screenshot%202025-04-10%20104737.png)
 ![image alt](https://github.com/jaswanthBavi/devops-task-terraform-docker/blob/80cbbbaca0d573ebc565a88550f4ef0885d67bfe/Screenshot%202025-04-10%20105139.png)
-
+![image alt](https://github.com/jaswanthBavi/devops-task-terraform-docker/blob/011757b134dfb4e1238de1ccacb67d2100c2377e/Screenshot%202025-04-10%20105201.png)
 ![image alt](https://github.com/jaswanthBavi/devops-task-terraform-docker/blob/2b5d33cfc21ea8cb793efd6b3b81c4616ae85ca0/Screenshot%202025-04-10%20105300.png)
